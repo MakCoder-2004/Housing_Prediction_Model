@@ -41,5 +41,6 @@ It demonstrates a complete end-to-end **machine learning workflow**, from data p
 
 ---
 
-✦ *Author: \[Makrious Ayman]*
+✦ *Author: \[Makrious Ayman]* <br>
 ✦ [Follow me on LinkedIn](https://www.linkedin.com/in/makrious-ayman-84985621b/)
+
